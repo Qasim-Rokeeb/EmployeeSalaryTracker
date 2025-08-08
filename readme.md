@@ -78,17 +78,7 @@ await contract.addEmployee(
 );
 ```
 
-### Update Salary
 
-```javascript
-await contract.updateSalary(
-    "Engineering",
-    "John Doe",
-    ethers.utils.parseEther("3")
-);
-```
-
----
 
 ## 📦 Deployment & Verification
 
